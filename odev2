@@ -1,0 +1,39 @@
+<h1>ÖMER NAYIR</h1>
+<h3>Hakkımda</h3>
+<p>Merhaba Ben Ömer! Html öğreniyorum. Dizi izlemeyi ve film izlemeyi çok seviyorum. Avrupa yakasına bayılırım. Bana eskiyi hatırlatır. Umarım bu eğitimin sonunda HTML+CSS+JS yi güzel birşekilde öğrenmiş olurum.</p>
+<h3>İlgi alanlarım</h3>
+<ol>
+    <li> Film
+        <ul>
+            <li>Star wars</li>
+            <li>yuzuklerın efendisi</li>
+            <li>amores peros</li>
+        </ul>
+        
+    </li>
+    <li>Dizi
+        <ul>
+            <a href="https://tr.wikipedia.org/wiki/Avrupa_Yakas%C4%B1_(dizi)" target="_blank">
+            <li>Avrupa yakası</li>
+            </a>
+            <li>Arka sokaklar</li>
+            <li>gibi</li>
+        </ul>
+        
+    </li>
+    <li>Kitap
+        <ul>
+            
+            <a href="https://www.nadirkitap.com/allah-aski-ibnu-l-cevzi-kitap21962916.html" target="_blank">
+            <li>Allah aşkı</li>
+            </a>
+            <li>olasılıksız</li>
+            <li>keşfetmenin hazzı</li>    
+            </ul>
+            <h2>Sevdiğim diziler</h2>
+            <h3>Avrupa yakası</h3>
+    </li>
+</ol>
+
+<img src="images/ımage2.jpg" alt="">
+<p>Avrupa yakası bir sitcomdur. Ailece izlenebilir. 2008 de yayınlanmıştır.</p>
